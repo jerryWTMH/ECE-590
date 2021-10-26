@@ -1,2 +1,1 @@
-"# ECE-590" 
-"# ECE-590" 
+ECE 590 Algorithm Project
